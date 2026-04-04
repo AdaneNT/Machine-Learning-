@@ -1,7 +1,30 @@
-## Robot Package Template
 
-This is a GitHub template. You can make your own copy by clicking the green "Use this template" button.
+# Machine Learning Lecture Materials
 
-It is recommended that you keep the repo/package name the same, but if you do change it, ensure you do a "Find all" using your IDE (or the built-in GitHub IDE by hitting the `.` key) and rename all instances of `my_bot` to whatever your project's name is.
+This repository contains lecture materials developed for university-level courses in Machine Learning.
 
-Note that each directory currently has at least one file in it to ensure that git tracks the files (and, consequently, that a fresh clone has direcctories present for CMake to find). These example files can be removed if required (and the directories can be removed if `CMakeLists.txt` is adjusted accordingly).
+## Overview
+
+The materials were developed for teaching  postgraduate students, with a focus on clear conceptual explanation of core machine learning topics.
+
+## Contents
+- Lecture slides covering key topics such as:
+  - Supervised learning
+  - Neural networks
+  - Model evaluation
+  - Feature engineering
+
+## Teaching Approach
+The materials are designed to:
+- Provide structured explanations of theoretical concepts
+- Support classroom teaching and discussion
+- Serve as a foundation for further practical and project-based learning
+
+## Notes
+
+- These materials are intended for educational use
+- Some content may be adapted for teaching purposes
+
+## License
+
+This work is shared for educational purposes under a Creative Commons license.
