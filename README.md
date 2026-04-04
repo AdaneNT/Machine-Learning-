@@ -9,10 +9,11 @@ The materials were developed for teaching  postgraduate students, with a focus o
 
 ## Contents
 - Lecture slides covering key topics such as:
+  - Overview of machine learning
   - Supervised learning
-  - Neural networks
+  - Unsupervised learning
   - Model evaluation
-  - Feature engineering
+  - Data preprocessing
 
 ## Teaching Approach
 The materials are designed to:
