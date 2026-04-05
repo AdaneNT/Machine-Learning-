@@ -26,6 +26,4 @@ The materials are designed to:
 - These materials are intended for educational use
 - Some content may be adapted for teaching purposes
 
-## License
 
-This work is shared for educational purposes under a Creative Commons license.
